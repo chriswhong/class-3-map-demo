@@ -2,6 +2,11 @@
 
 An interactive web map showcasing students' favorite pizza places, built using Mapbox GL JS. This project was created as part of a web mapping class and features crowdsourced data from students about their go-to pizza spots around NYC and beyond.
 
+[See it live on Github Pages](https://chriswhong.github.io/class-3-map-demo/)
+
+<img width="1129" height="679" alt="Fullscreen_4_16_26__7_14 PM" src="https://github.com/user-attachments/assets/9ef788f9-75a4-44ef-914f-8decd67e24c1" />
+
+
 ### Features
 
 - **Interactive Map**: Built with Mapbox GL JS displaying a globe projection centered on New York City
