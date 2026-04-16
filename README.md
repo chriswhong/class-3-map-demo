@@ -1,6 +1,4 @@
-# class-3-map-demo
-
-## Web Mapping Class Pizza Map 🍕🗺️
+# Web Mapping Class Pizza Map 🍕🗺️
 
 An interactive web map showcasing students' favorite pizza places, built using Mapbox GL JS. This project was created as part of a web mapping class and features crowdsourced data from students about their go-to pizza spots around NYC and beyond.
 
